@@ -1,0 +1,15 @@
+C:\Users\prish\source\repos\Bank\Bank\obj\Debug\net6.0\ContactBook.csproj.AssemblyReference.cache
+C:\Users\prish\source\repos\Bank\Bank\obj\Debug\net6.0\ContactBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prish\source\repos\Bank\Bank\obj\Debug\net6.0\ContactBook.AssemblyInfoInputs.cache
+C:\Users\prish\source\repos\Bank\Bank\obj\Debug\net6.0\ContactBook.AssemblyInfo.cs
+C:\Users\prish\source\repos\Bank\Bank\obj\Debug\net6.0\ContactBook.csproj.CoreCompileInputs.cache
+C:\Users\prish\source\repos\Bank\Bank\bin\Debug\net6.0\ContactBook.exe
+C:\Users\prish\source\repos\Bank\Bank\bin\Debug\net6.0\ContactBook.deps.json
+C:\Users\prish\source\repos\Bank\Bank\bin\Debug\net6.0\ContactBook.runtimeconfig.json
+C:\Users\prish\source\repos\Bank\Bank\bin\Debug\net6.0\ContactBook.dll
+C:\Users\prish\source\repos\Bank\Bank\bin\Debug\net6.0\ContactBook.pdb
+C:\Users\prish\source\repos\Bank\Bank\obj\Debug\net6.0\ContactBook.dll
+C:\Users\prish\source\repos\Bank\Bank\obj\Debug\net6.0\refint\ContactBook.dll
+C:\Users\prish\source\repos\Bank\Bank\obj\Debug\net6.0\ContactBook.pdb
+C:\Users\prish\source\repos\Bank\Bank\obj\Debug\net6.0\ContactBook.genruntimeconfig.cache
+C:\Users\prish\source\repos\Bank\Bank\obj\Debug\net6.0\ref\ContactBook.dll
